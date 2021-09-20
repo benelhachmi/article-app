@@ -1,0 +1,13 @@
+.article-conten{
+    max-width: 700px;
+    max-width: 300px;
+    margin: 100px auto;
+
+} 
+.article-conten h2{
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.article-conten p{
+    font-size: 25px;
+}
