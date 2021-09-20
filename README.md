@@ -31,7 +31,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 
-### `how all the articles`
+### `show all the articles`
 <img src="./public/img/scr1.png" alt="show all article"/>
 
  ### `add now article`
